@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1> My Todo List</h1>
+      <h1> Shablé's Todo List</h1>
       <div className="todo-list">
         {todos.map((todo, index) => (
           <Todo
